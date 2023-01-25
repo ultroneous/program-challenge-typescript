@@ -54,3 +54,11 @@ This file contains helper functions we've made to reduce the complexity for you.
 They're optional, but very useful.
 - `"supporting-files/testing.ts"`\
 This file contains the function for executing the test, and the result which we expect you to produce.
+
+Share ZIP File to HR Once Task Completed
+
+NOTE: Code should be up to the mark.
+
+What we will check?
+- given functionality should be work as per the requirement
+- Code optimization
